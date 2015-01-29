@@ -185,4 +185,4 @@ edge {
 hyperparams {
   activation: LOGISTIC
 }
-prefix: "/ais/gobi3/u/nitish/flickr/dbn_models"
+prefix: "/media/DataDisk/dataset/flickr-nips2012/flickr/dbn_models"

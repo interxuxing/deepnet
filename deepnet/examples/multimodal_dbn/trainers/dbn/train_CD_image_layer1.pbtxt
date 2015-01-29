@@ -8,7 +8,7 @@ batchsize: 128
 data_proto: "flickr.pbtxt"
 eval_after: 5000
 checkpoint_after: 50000
-checkpoint_directory: "/ais/gobi3/u/nitish/flickr/dbn_models"
+checkpoint_directory: "/media/DataDisk/dataset/flickr-nips2012/flickr/dbn_models"
 randomize: true
 verbose: false
-data_proto_prefix: "/ais/gobi3/u/nitish/flickr"
+data_proto_prefix: "/media/DataDisk/dataset/flickr-nips2012/flickr"
